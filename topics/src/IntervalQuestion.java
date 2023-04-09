@@ -4,7 +4,7 @@ import java.util.Random;
 public class IntervalQuestion {
 
     private int M = 1000000;
-    private int nStart = 500;
+    private int nStart = 1000;
 
     double getAverageNumberOfQuestions() {
         double sumN = 0;
