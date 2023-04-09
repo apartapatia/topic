@@ -34,5 +34,12 @@ public class probability {
         return c[k];
     }
 
+    public static class Main {
+        public static void main(String[] args) {
+            probability a = new probability();
+            System.out.println(a.solution(50));
+        }
+    }
+
 
 }
